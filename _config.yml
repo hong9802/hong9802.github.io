@@ -1,9 +1,9 @@
 # Site settings
-title: Nangka
-email: your@mail.com
+title: HONG9802
+email: hong9802@hansung.ac.kr
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my awesome blog.
-baseurl: "/nangka" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rmsubekti.github.io" # the base hostname & protocol for your site
 google_analytics: #your GA unique id, e.g. UA-xxxxxxxx-x
 disqus_username: #Your disqus_username to add comments on the post
