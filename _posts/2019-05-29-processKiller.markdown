@@ -43,6 +43,7 @@ def process_kill(kill_program_name):
         #print("Process have been terminated...")
 
 def add_kill_program(program_name):
+    i = 0
     conn = sqlite3.connect("program_name.db")
     curs = conn.cursor()
     insert_data = "insert into program_name(name) values (?)"
