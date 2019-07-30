@@ -37,6 +37,8 @@ import requests
 import urllib
 
 def img_link(soup, name_list, url):
+    if not os.path.isdir("./dcinside"):
+        os.mkdir("./dcinside")
     opener = urllib.request.build_opener()
     opener.addheaders = [("Referer", url)]
     urllib.request.install_opener(opener)
