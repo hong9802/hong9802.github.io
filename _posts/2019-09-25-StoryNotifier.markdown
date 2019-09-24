@@ -21,6 +21,7 @@ categories: MeuWorks
 [카카오스토리](https://story.kakao.com)의 알림을 Ubuntu에서 받아볼 수 있는 앱 입니다.  
 notify-send라는 앱을 통해서 Ubuntu 알림바에 알림을 해줍니다.  
 ![noti_image1](https://bitbucket.org/hong9802/image/raw/9eea528dfd6084215f2923b8815256e79e326abf/StoryNotifier/story_noti1.png)    
+  
 ![noti_image2](https://bitbucket.org/hong9802/image/raw/9eea528dfd6084215f2923b8815256e79e326abf/StoryNotifier/story_noti2.png)  
 알림은 위의 이미지처럼 나옵니다.  
 
