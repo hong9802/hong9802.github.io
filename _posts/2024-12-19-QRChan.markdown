@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "안드로이드 롬을 빌드해보자!"
+title:  "QRChan"
 date:   2024-12-19 00:01:15 +0900
 categories: develop
 ---
