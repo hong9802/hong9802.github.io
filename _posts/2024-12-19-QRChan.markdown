@@ -91,3 +91,7 @@ QRChan은 **QR 코드를 안전하게 사용할 수 있도록 설계된 앱**입
 QRChan 앱 받기 : [dropbox](https://www.dropbox.com/scl/fi/848aj913dv9l4yz94ev9h/QRChan_V1.apk?rlkey=qqj6ai4bc7wvlxpu2n982s4h1&st=8f8dqtx2&dl=0)  
 
 QRChan Github : [Github](https://github.com/hong9802/QRChan)
+
+## **Thanks to**  
+
+앱 아이콘을 그려주신 Seren님께 감사드립니다.
