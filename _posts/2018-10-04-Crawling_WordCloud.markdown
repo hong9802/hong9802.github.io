@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "한성공지를 크롤링 후 단어 빈도 수 시각화하기"
+title:  "한성공지를 스크래이핑 후 단어 빈도 수 시각화하기"
 date:   2018-10-04 02:45:10 +0700
 categories: MeuWorks
 ---
 
 ## 주의사항!
-본 문서는 <b>Python 3</b>성애자가 다녀간 문서입니다.<br>
+본 문서는 <b>Python 3</b>를 좋아하는 사람이 다녀간 문서입니다.<br>
 본 문서는 <b>Ubuntu</b>를 너무 사랑한 나머지 <b>Ubuntu 18.04.1 LTS</b>기준으로 작성되었습니다.<br>
-본 문서에서 크롤링한 한성대학교 공지는 2018.10.03까지 입니다.(관련 data.txt는 <a href="https://bitbucket.org/hong9802/crawling_wordcloud/src/master/data.txt">bitbucket</a>에 있습니다.)<br>
+본 문서에서 스크래이핑한 한성대학교 공지는 2018.10.03까지 입니다.(관련 data.txt는 <a href="https://bitbucket.org/hong9802/crawling_wordcloud/src/master/data.txt">bitbucket</a>에 있습니다.)<br>
 본 문서에서 필요한 모듈들은 다음과 같습니다.<br>
 * re
 * BeautifulSoup
@@ -18,7 +18,7 @@ categories: MeuWorks
 * pytagcloud
 * time
 <br>
-<sub>time모듈은 크롤링할 때 필수...</sub>
+<sub>time모듈은 스크래이핑할 때 필수...</sub>
 <br>
 
 ## 간단한 설명!
