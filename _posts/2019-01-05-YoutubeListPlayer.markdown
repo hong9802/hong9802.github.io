@@ -5,7 +5,7 @@ date:   2019-01-05 06:15:10 +0700
 categories: MeuWorks
 ---
 ## 주의사항!
-본 문서는 <b>Python 3</b>성애자가 다녀간 문서입니다.<br>
+본 문서는 <b>Python 3</b>를 좋아하는 사람이 다녀간 문서입니다.<br>
 본 문서는 <b>Ubuntu</b>를 너무 사랑한 나머지 <b>Ubuntu 18.04.1 LTS</b>기준으로 작성되었습니다.<br>
 본 문서는 <a href = "https://www.youtube.com/watch?v=P33Qa2eML-s">youtube Link</a>를 참조해주세요!<br>
 본 문서에서 필요한 모듈들은 다음과 같습니다.
@@ -76,4 +76,3 @@ if(__name__ == "__main__"):
         subprocess.Popen(['mpg123', '-q', playlist[nowplaying] + ".mp3"]).wait()
         nowplaying+=1
 ```
-간단하죠?
