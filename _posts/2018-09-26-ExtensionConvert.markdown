@@ -5,7 +5,7 @@ date:   2018-09-26 02:45:10 +0700
 categories: MeuWorks
 ---
 ## 주의사항!
-본 문서는 <b>Python 3</b>성애자가 다녀간 문서입니다.<br>
+본 문서는 <b>Python 3</b>를 좋아한 사람이 다녀간 문서입니다.<br>
 본 문서는 <b>Ubuntu</b>를 너무 사랑한 나머지 <b>Ubuntu 18.04.1 LTS</b>기준으로 작성되었습니다.<br>
 본 문서는 <a href = "http://devanix.tistory.com/304">파이썬 – os 모듈</a>을 참조하였습니다.<br>
 본 문서에서 필요한 모듈들은 다음과 같습니다.
@@ -32,4 +32,3 @@ for i in range(len(target)):
     convert = target[i][:extension + 1] + change #파일 이름 저장!
     os.rename(path + '/'+ target[i], path + '/' + convert) #이름 바꾸기!!!
 ```
-간단하죠?
