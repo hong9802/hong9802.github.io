@@ -6,7 +6,7 @@ categories: MeuWorks
 ---
 
 ## 주의사항!
-본 문서는 <b>Python 3</b>성애자가 다녀간 문서입니다.<br>
+본 문서는 <b>Python 3</b>를 좋아하는 사람이 다녀간 문서입니다.<br>
 본 문서는 <b>Ubuntu</b>를 너무 사랑한 나머지 <b>Ubuntu 18.04.1 LTS</b>기준으로 작성되었습니다.<br>
 본 문서는 <a href="https://www.zerochan.net/">Zerochan</a> 사이트를 크롤링 했습니다.<br>
 본 문서는 기존에 짯던 소스에 multiprocessing을 첨가한 케이스라서 소스코드가 매우 답이 없습니다!(갈아엎어야 하는데 귀찮...)<br>
