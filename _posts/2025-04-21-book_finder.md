@@ -83,7 +83,7 @@ RFID 리더기를 사용하는 도서 정리 방식은 정확하긴 하지만,
 
 ## **앱 링크 및 소스코드**
 
-앱 다운로드 : [DROPBOX]([https://www.dropbox.com/scl/fi/mxkviol4s2f59isgm0z6r/_-_.apk?rlkey=wwfrfkdaqmppln1x8cm0pw837&st=7rn40jfo&dl=0])  
-소스코드 보기 : [Github Repository]([https://github.com/hong9802/book_rfid])
+앱 다운로드 : [DROPBOX](https://www.dropbox.com/scl/fi/mxkviol4s2f59isgm0z6r/_-_.apk?rlkey=wwfrfkdaqmppln1x8cm0pw837&st=7rn40jfo&dl=0)  
+소스코드 보기 : [Github Repository](https://github.com/hong9802/book_rfid)
 
 ---
